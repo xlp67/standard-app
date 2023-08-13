@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   standard-app:
   - apiVersion: v1
-    created: "2023-08-13T00:12:07.623358-03:00"
+    created: "2023-08-13T00:12:43.720213-03:00"
     description: A standard application setup with Nginx fronting the HTTP deployment
     digest: ba9cc0fc48e531987fd8046401e08257e80c64189608d180f2287934e458b66a
     name: standard-app
     urls:
     - https://xlp67.github.io/standard-app/standard-app-2.10.0.tgz
     version: 2.10.0
-generated: "2023-08-13T00:12:07.613269-03:00"
+generated: "2023-08-13T00:12:43.717857-03:00"
